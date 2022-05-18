@@ -1,9 +1,5 @@
 # Deep-Dive-Terraform
 
-Welcome to Terraform - Deep Dive version 2.  These exercise files are meant to accompany my course on [Pluralsight](https://app.pluralsight.com/library/courses/deep-dive-terraform/).  The course was developed using version 0.12.x of Terraform.  As far as I know there are no coming changes in 0.13 or newer that will significantly impact the validity of these exercise files.  But I also don't control all the plug-ins, providers, and modules used by the configurations. 
-
-If you're looking for the older version of the course, that is still available on the v1 branch. I am no longer maintaining it, but I thought I would keep it around for posterity.
-
 ## AWS Account
 
 You are going to need an account where you have FullAdmin permissions. You are going to be creating policies, roles, profiles, VPCs, etc. If you don't have enough permissions in your current environment, then I recommend creating a temporary account to mess around in. In fact, probably do that regardless. You don't want to accidentally mess something up at work because you were trying to learn about Terraform.
@@ -33,10 +29,6 @@ The contents of module 7 are all about troubleshooting Terraform. As a consequen
 ### Module 8
 
 A special note about module 8. The process has you deploy resources using Jenkins. In order to destroy the infrastructure, kick off a build and select *Cancel* during the approval stage. Cancelling the process will trigger a destruction of the environment. Don't use this process in real life, you'll end up with some very unhappy Ops folks.
-
-## Certification
-
-HashiCorp has released the *Terraform Certified Associate* certification.  You might be wondering if this course fully prepares you for the cert.  **It does not.**  Taking this course along with the [Terraform - Getting Started]((https://app.pluralsight.com/library/courses/terraform-getting-started) course on Pluralsight will meet most of the learning objectives for the certification, but there is no substitute for running the software on your own and hacking away.
 
 I have coauthored a certification guide which you can find on [Leanpub](https://leanpub.com/terraform-certified/).  This is an unofficial guide, but I believe in concert with the Pluralsight courses you will be in a good position to sit the exam.
 

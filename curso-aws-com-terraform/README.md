@@ -1,6 +1,6 @@
 # DevOps: AWS com Terraform Automatizando sua infraestrutura
 
-Arquivos do curso de Terraform publicado na Udemy [https://www.udemy.com/aws-com-terraform](https://www.udemy.com/course/aws-com-terraform/?referralCode=05BE0FCDD1140543679C)
+
 
 ![Terraform-0-14](https://img.shields.io/badge/terraform-0.14-blueviolet?style=flat-square)
 
@@ -31,9 +31,6 @@ No curso você encontrará muito código que poderá ser reaproveitável para ap
 - Quem quer aprender Terraform e automatizar o processo de criação e manutenção da infraestrutura de suas aplicações.
 - É Dev, Sys Admin, DevOps ou Simpatizantes e quer aprender sobre automação usando Terraform.
 
-# Cupom
-
-Se você tem interesse em aprender Terraform, pegue este cupom e aproveite 🚀(https://www.udemy.com/course/aws-com-terraform/?referralCode=05BE0FCDD1140543679C). É muita informação e conta com aulas práticas!
 
 
 
